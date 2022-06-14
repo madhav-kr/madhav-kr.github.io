@@ -1,0 +1,14 @@
+            h1
+            {
+                color:blue;
+            }
+            h1:hover{
+                color:red;
+            }
+            a
+            {
+                color:red;
+            }
+            a:hover{
+                color:yellow;
+            }
